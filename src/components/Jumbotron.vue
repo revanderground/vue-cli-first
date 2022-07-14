@@ -1,6 +1,6 @@
 <template>
 <div class="jumbotron">
-  <h1>Sasuke Uchia</h1>
+  <h1>Sasuke Uchiha</h1>
   <p>Seeking for Revenge</p>
 </div>
 </template>
